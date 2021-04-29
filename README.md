@@ -1,4 +1,5 @@
-# movielist_2
+# movielist in vue
+Course project for Front End Developer course at Medieinstitutet Malmö. Some bugs to be fixed.
 
 ## Project setup
 ```
